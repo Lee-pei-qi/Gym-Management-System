@@ -1,0 +1,10 @@
+14-05-2022;10:00;11:00;1 hour;Room 3;Advanced;jackchan;Jack Chan;joseph;Joseph Kenji
+15-05-2022;14:00;15:00;1 hour;Room 1;Beginner;sharon;Sharon Wong;Lydia;Lydia Ho
+17-05-2022;10:00;11:00;1 hour;Room 3;Intermediate;jenifferng;Jeniffer Ng;Lydia;Lydia Ho
+15-05-2022;10:00;11:00;1 hour;Room 1;Advanced;jackchan;Jack Chan;joseph;Joseph Kenji
+20-05-2022;15:00;16:00;1 hour;Room 2;Beginner;sharon;Sharon Wong;Lydia;Lydia Ho
+21-05-2022;10:00;11:30;1 hour 30 minutes;Room 3;Intermediate;derrick;Derrick Wong;joseph;Joseph Kenji
+24-05-2022;11:00;12:30;1 hour 30 minutes;Room 2;Intermediate;jenifferng;Jeniffer Ng;Lydia;Lydia Ho
+30-05-2022;10:00;11:30;1 hour 30 minutes;Room 1;Beginner;sharon;Sharon Wong;Lydia;Lydia Ho
+25-05-2022;16:00;17:00;1 hour 0 minutes;Room 4;Intermediate;derrick;Derrick Wong;joseph;Joseph Kenji
+07-06-2022;15:00;16:00;1 hour 0 minutes;Room 1;Intermediate;sharon;Sharon Wong;Lydia;Lydia Ho

@@ -1,0 +1,2 @@
+joseph;Joseph Kenji;Male;01-12-1994;941201-10-5422;joseph@gmail.com;0162258997;No.32, Jalan Mutiara 40, Taman Mutiara;Bandar Baru Sri Petaling;57000;Kuala Lumpur;Malaysia
+Lydia;Lydia Ho;Female;01-05-1990;900501-10-4576;lydia@gmail.com;013-2346785;No. 17, Jalan Mewah;Kajang;43000;Selangor;Malaysia

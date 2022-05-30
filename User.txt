@@ -1,0 +1,6 @@
+Pek Yen;pekyen;admin1;Manager
+Pei Qi;peiqi;admin2;Manager
+Lydia Ho;Lydia;admin3;Trainer
+Joseph Kenji;joseph;admin4;Trainer
+Derrick Wong;derrick;derrick;Customer
+Sharon Wong;sharon;sharon;Customer

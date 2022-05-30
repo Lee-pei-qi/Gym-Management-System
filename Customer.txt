@@ -1,0 +1,2 @@
+derrick;Derrick Wong;Male;21-06-1998;980621-10-3488;derrick@gmail.com;012-3458924;No.3, Jalan Baru, Taman Langsir;Petaling Jaya;57000;Selangor;Malaysia
+sharon;Sharon Wong;Female;22-10-1980;801022-10-3466;sharon@gmail.com;015-2348975;No. 3, Jalan Besar, Taman Uplands;Kajang;43000;Selangor;Malaysia

@@ -1,0 +1,11 @@
+Payment Date;Payment Type;Amount;Session Date;Session Time;Customer Username;Trainer Username;Collected Date;Status
+09-05-2022;Credit Card;200.00;14-05-2022;10:00-11:00;jackchan;joseph;15-05-2022;Collected
+10-05-2022;Cash;100.00;15-05-2022;14:00-15:00;sharon;Lydia;17-05-2022;Collected
+10-05-2022;Credit Card;150.0;17-05-2022;10:00-11:00;jenifferng;Lydia;20-05-2022;Collected
+11-05-2022;Credit Card;200.0;15-05-2022;10:00-11:00;jackchan;joseph;23-05-2022;Collected
+15-05-2022;Cash;100.0;20-05-2022;15:00-16:00;sharon;Lydia;28-05-2022;Collected
+19-05-2022;Cash;130.0;21-05-2022;10:00-11:30;derrick;joseph;;Paid
+20-05-2022;Credit Card;150.0;24-05-2022;11:00-12:30;jenifferng;Lydia;28-05-2022;Collected
+23-05-2022;Credit Card;200.0;25-05-2022;16:00-17:00;derrick;joseph;;Paid
+30-05-2022;Credit Card;100.0;30-05-2022;10:00-11:30;sharon;Lydia;;Paid
+30-05-2022;Credit Card;200.0;07-06-2022;15:00-16:00;sharon;Lydia;;Paid

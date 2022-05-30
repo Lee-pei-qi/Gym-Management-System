@@ -1,0 +1,7 @@
+Feedback Date;Session Date;Session Time;Customer Username;Trainer Username;Rating;Content
+15-05-2022;14-05-2022;10:00-11:00;jackchan;joseph;4;Student is hardworking and progressing well.
+28-05-2022;15-05-2022;14:00-15:00;sharon;Lydia;4.0;work hard and made up to 40 pushups
+23-05-2022;15-05-2022;10:00-11:00;jackchan;joseph;3.0;not in a good condition today
+27-05-2022;24-05-2022;11:00-12:30;jenifferng;Lydia;4.5;nice
+28-05-2022;17-05-2022;10:00-11:00;jenifferng;Lydia;3.0;Hard to follow up
+28-05-2022;20-05-2022;15:00-16:00;sharon;Lydia;4.0;good work
